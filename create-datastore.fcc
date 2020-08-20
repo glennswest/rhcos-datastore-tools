@@ -10,7 +10,7 @@ storage:
           #!/bin/bash
 
           LABEL=datastore
-          OFFSET=80G
+          OFFSET=100G
 
           set -euo pipefail
 
